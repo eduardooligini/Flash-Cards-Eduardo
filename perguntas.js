@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Vôlei'
-    'Quem criou o vôlei?'
+    'quem criou o võlei'
     'William G. Morgan'
 )
 

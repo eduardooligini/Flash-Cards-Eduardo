@@ -1,23 +1,23 @@
 criaCartao(
-    'Vôlei'
-    'Quantos jogadores fazem parte de uma equipe?'
-    '12 jogadores, 6 titulares e 6 reservas.'
+    'Vôlei',
+    'Quantos jogadores há em uma equipe de vôlei em quadra?',
+    'cada equipe e vôlei tem 6 jogadores em quadra ao mesmo tempo.'
 )
 
 criaCartao(
-    'Vôlei'
-    'quem criou o võlei'
-    'William G. Morgan'
+    'Vôlei',
+    'Qual a altura a reda de vôlei masculina e feminina?',
+    'A altura da rede de vôlei masculina é e 2,43 metros, e no feminino é e 2,24 metros.'
 )
 
 criaCartao(
-    'Vôlei'
-    'Quais são os fundamentos do vôlei?'
-    'Saque, ataque, bloqueio, levantamento e recepção.'
+    'Vôlei',
+    'Quantos sets uma equipe precisa vencer para ganhar uma partida d vôlei?',
+    'Em partia oficiais uma equipe precisa vencer 3 sets para ganhar a partida.Se ouver empate em 2 a 2, um quinto set ( tie-brak) é jogado até 15 pontos.'
 )
 
 criaCartao(
-    'Vôlei'
-    'Qual o set mais longo da história do vôlei?'
-    'No Pré-Olímpico do Japão, a França também esteve envolvida no set mais longo da história do vôlei. Diante da Austrália, o placar ficou em 44 a 42 para os franceses em 1h43.'
+    'Vôlei',
+    'Quais são os fundamentos principais do võlei?',
+    'Saque, ataque, bloqueio, levantamento, recepção.'
 )

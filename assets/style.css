@@ -8,12 +8,6 @@ body {
     background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
-.cartao{
-    flex: 1 0 calc(100% - 1rem);
-}
-
-.cartao__conteudo h3{
-    font-size: 3vw;
 
 #container {
     display: flex;
@@ -60,12 +54,6 @@ body {
     margin-top: 4rem;
     font-size: 1.4vw;
 }
-.cartao{
-    flex: 1 0 calc(100% - 1rem);
-}
-
-.cartao__conteudo h3{
-    font-size: 3vw;
 
 .cartao__conteudo__pergunta p {
     color: var(--text-color);

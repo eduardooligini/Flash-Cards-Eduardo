@@ -1,6 +1,6 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #9ddf9b;
+    --card-front-color: #144480;
     --card-back-color: #00F4BF;
 }
 
@@ -47,6 +47,8 @@ body {
     padding: 0.5rem;
     position: absolute;
     margin: 0.6rem;
+}
+.cartao{
     border-radius: 0.6rem;
     font-size: 1vw;
     backface-visibility: hidden;

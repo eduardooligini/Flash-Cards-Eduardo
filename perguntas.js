@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Vôlei',
-    'Quantos sets uma equipe precisa vencer para ganhar uma partida d vôlei?',
+    'Quantos sets uma equipe precisa vencer para ganhar uma partida de vôlei?',
     'Em partia oficiais uma equipe precisa vencer 3 sets para ganhar a partida.Se ouver empate em 2 a 2, um quinto set ( tie-brak) é jogado até 15 pontos.'
 )
 
